@@ -12,7 +12,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-compiler-runtime": "file:./lib/react-compiler-runtime",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.2/xlsx-0.20.2.tgz"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
